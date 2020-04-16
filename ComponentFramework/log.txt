@@ -1,0 +1,2 @@
+INFO: Initializing the window and first scene ( c:\users\ncrac\desktop\opengl project\developmentframework\componentframework\gamescenemanager.cpp: 95)
+INFO: 1.13.0 ( c:\users\ncrac\desktop\opengl project\developmentframework\componentframework\window.cpp: 66)
